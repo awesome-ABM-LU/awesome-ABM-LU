@@ -1,0 +1,59 @@
+{
+  "index.qmd": {
+    "index.html": "66877942"
+  },
+  "output_dir/Blog_posts.qmd": {
+    "Blog_posts.html": "74062517"
+  },
+  "output_dir/Books.qmd": {
+    "Books.html": "528bec29"
+  },
+  "output_dir/Contents.qmd": {
+    "Contents.html": "7b72e99c"
+  },
+  "output_dir/Contributing.qmd": {
+    "Contributing.html": "11c46af3"
+  },
+  "output_dir/Featured__new_entries_.qmd": {
+    "Featured__new_entries_.html": "0aea4517"
+  },
+  "output_dir/Journals___Specialized_Search_Engine_Links___journals__specialized_search_engine_links_.qmd": {
+    "Journals___Specialized_Search_Engine_Links___journals__specialized_search_engine_links_.html": "af36ebe0"
+  },
+  "output_dir/Open_Source_Frameworks__Libraries___Software___open_source_frameworks_libraries__software_.qmd": {
+    "Open_Source_Frameworks__Libraries___Software___open_source_frameworks_libraries__software_.html": "4d9dd40c"
+  },
+  "output_dir/Talks_and_videos.qmd": {
+    "Talks_and_videos.html": "8aa01df2"
+  },
+  "output_dir/Tutorials___workshops.qmd": {
+    "Tutorials___workshops.html": "fa611c14"
+  },
+  "sections/Blog_posts.qmd": {
+    "Blog_posts.html": "96bfeef3"
+  },
+  "sections/Books.qmd": {
+    "Books.html": "246e9c95"
+  },
+  "sections/Contents.qmd": {
+    "Contents.html": "a5226f47"
+  },
+  "sections/Contributing.qmd": {
+    "Contributing.html": "e9fb2dc8"
+  },
+  "sections/Featured__new_entries_.qmd": {
+    "Featured__new_entries_.html": "570ca910"
+  },
+  "sections/Journals___Specialized_Search_Engine_Links___journals__specialized_search_engine_links_.qmd": {
+    "Journals___Specialized_Search_Engine_Links___journals__specialized_search_engine_links_.html": "965ea748"
+  },
+  "sections/Open_Source_Frameworks__Libraries___Software___open_source_frameworks_libraries__software_.qmd": {
+    "Open_Source_Frameworks__Libraries___Software___open_source_frameworks_libraries__software_.html": "03fe9de3"
+  },
+  "sections/Talks_and_videos.qmd": {
+    "Talks_and_videos.html": "95d41aa4"
+  },
+  "sections/Tutorials___workshops.qmd": {
+    "Tutorials___workshops.html": "f0f35b1e"
+  }
+}
